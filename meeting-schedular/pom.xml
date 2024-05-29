@@ -12,6 +12,7 @@
 	<artifactId>store-appointments</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>store-appointments</name>
+	<packaging>war</packaging>
 	<description>Appiontments</description>
 	<properties>
 		<java.version>17</java.version>

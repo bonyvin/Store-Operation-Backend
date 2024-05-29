@@ -12,6 +12,7 @@
 	<artifactId>service-registry-storeoperation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>service-registry-storeoperation</name>
+	<packaging>war</packaging>
 	<description>Service Registery </description>
 	<properties>
 		<java.version>17</java.version>
