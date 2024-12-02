@@ -13,7 +13,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bank-deposits</name>
 	<description>Demo project for Spring Boot</description>
-	<packaging>war</packaging>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2022.0.4</spring-cloud.version>

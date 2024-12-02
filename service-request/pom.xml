@@ -12,7 +12,6 @@
 	<artifactId>service-request</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>service-request</name>
-	<packaging>war</packaging>
 	<description>service request</description>
 	<properties>
 		<java.version>17</java.version>
